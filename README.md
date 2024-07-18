@@ -1,2 +1,2 @@
-# WEB_FINAL_PROJECT_1
- PROJECT_1
+# This is a simple Job Website Frontend using HTML and Css
+
